@@ -1,0 +1,5 @@
+1	nihao
+2	buhao
+3	hahaha
+4	yes
+5	nonono
